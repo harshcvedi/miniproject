@@ -19,9 +19,7 @@ section{
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
 }
-body {
-  background: #E3F2FD;
-}
+
 h1 {
   background:#60f053;
   font-size: 1.75rem;
